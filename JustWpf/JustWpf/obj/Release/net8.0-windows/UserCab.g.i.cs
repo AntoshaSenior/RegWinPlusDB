@@ -64,7 +64,7 @@ namespace JustWpf {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/JustWpf;component/usercab.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/JustWpf;V1.0.0.0;component/usercab.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UserCab.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

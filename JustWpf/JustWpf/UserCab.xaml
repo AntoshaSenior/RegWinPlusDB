@@ -15,6 +15,7 @@
             <StackPanel>
                 <TextBlock Text="Used Сabinet" FontSize="30" FontWeight="Bold"/>
 
+                
                 <ListView x:Name="listOfUsers">
                     <ListView.ItemTemplate>
                         <DataTemplate>

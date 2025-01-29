@@ -17,6 +17,7 @@ namespace JustWpf
         {  
         }  
 
+
         private static DbContextOptions<AppContext> GetOptions()  
         {  
             var optionsBuilder = new DbContextOptionsBuilder<AppContext>();  

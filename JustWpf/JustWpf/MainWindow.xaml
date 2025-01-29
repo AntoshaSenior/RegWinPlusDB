@@ -27,6 +27,7 @@
                         <TextBox GotFocus ="WhiteSwitch" x:Name="EmailBox" materialDesign:HintAssist.Hint="Email" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
                     </StackPanel>
                    
+                    
                     <Button x:Name="RegisEnterSwitcher_Button" Click="RegEnterBut" Content="Зарегистирироваться" Margin="0 20"></Button>
                 </StackPanel>
             </StackPanel>

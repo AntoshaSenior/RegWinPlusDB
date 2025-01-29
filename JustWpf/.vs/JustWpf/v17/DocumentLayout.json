@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\JustWpf\\",
+  "WorkspaceRootPath": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\usercab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\usercab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\usercab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\usercab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|c:\\users\\anton\\source\\repos\\justwpf\\justwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\usercab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\usercab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|d:\\github\\regwinplusdb\\justwpf\\justwpf\\usercab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F3CB8A-9CBB-458C-B923-8F10514927D4}|JustWpf\\JustWpf.csproj|solutionrelative:justwpf\\usercab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,47 +58,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UserCab.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\UserCab.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\UserCab.xaml.cs",
               "RelativeDocumentMoniker": "JustWpf\\UserCab.xaml.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\UserCab.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\UserCab.xaml.cs",
               "RelativeToolTip": "JustWpf\\UserCab.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:18:33.22Z"
+              "WhenOpened": "2025-01-28T06:18:33.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppContext.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\AppContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\AppContext.cs",
               "RelativeDocumentMoniker": "JustWpf\\AppContext.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\AppContext.cs",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\AppContext.cs",
               "RelativeToolTip": "JustWpf\\AppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:37:36.976Z"
+              "WhenOpened": "2025-01-26T19:37:36.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "JustWpf\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "JustWpf\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:06:50.568Z"
+              "WhenOpened": "2025-01-26T15:06:50.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\App.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.xaml",
               "RelativeDocumentMoniker": "JustWpf\\App.xaml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\App.xaml",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.xaml",
               "RelativeToolTip": "JustWpf\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-26T11:24:19.026Z",
@@ -102,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "JustWpf\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml",
               "RelativeToolTip": "JustWpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-26T11:24:20.887Z",
@@ -116,26 +123,40 @@
         },
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserCab.xaml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\UserCab.xaml",
-              "RelativeDocumentMoniker": "JustWpf\\UserCab.xaml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\UserCab.xaml",
-              "RelativeToolTip": "JustWpf\\UserCab.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T06:15:51.873Z"
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JustWpf\\App.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.xaml.cs",
+              "RelativeToolTip": "JustWpf\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:18:39.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "UserCab.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\UserCab.xaml",
+              "RelativeDocumentMoniker": "JustWpf\\UserCab.xaml",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\UserCab.xaml",
+              "RelativeToolTip": "JustWpf\\UserCab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T06:15:51.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "JustWpf\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\MainWindow.xaml",
               "RelativeToolTip": "JustWpf\\MainWindow.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -144,27 +165,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\App.config",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.config",
               "RelativeDocumentMoniker": "JustWpf\\App.config",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\App.config",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\App.config",
               "RelativeToolTip": "JustWpf\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-26T15:10:09.586Z"
+              "WhenOpened": "2025-01-26T15:10:09.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\User.cs",
+              "DocumentMoniker": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\User.cs",
               "RelativeDocumentMoniker": "JustWpf\\User.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\User.cs",
+              "ToolTip": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\User.cs",
               "RelativeToolTip": "JustWpf\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:33:12.8Z"
+              "WhenOpened": "2025-01-26T19:33:12.8Z",
+              "EditorCaption": ""
             }
           ]
         }

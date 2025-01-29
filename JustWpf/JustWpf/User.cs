@@ -16,6 +16,7 @@ namespace JustWpf
         public User()
         {
             
+
         }
 
         public User(string login,string pass,string email)

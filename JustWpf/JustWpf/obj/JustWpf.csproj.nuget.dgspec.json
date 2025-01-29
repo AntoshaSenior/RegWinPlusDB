@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\JustWpf.csproj": {}
+    "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\JustWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\JustWpf.csproj": {
+    "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\JustWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\JustWpf.csproj",
+        "projectUniqueName": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\JustWpf.csproj",
         "projectName": "JustWpf",
-        "projectPath": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\JustWpf.csproj",
+        "projectPath": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\JustWpf.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anton\\source\\repos\\JustWpf\\JustWpf\\obj\\",
+        "outputPath": "D:\\GitHub\\RegWinPlusDB\\JustWpf\\JustWpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
