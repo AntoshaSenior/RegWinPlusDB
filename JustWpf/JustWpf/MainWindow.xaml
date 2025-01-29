@@ -1,0 +1,40 @@
+﻿<Window x:Class="JustWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JustWpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid Background="#ffdadada">
+        <Border MinHeight="300" MinWidth="400" MaxWidth="550" Margin="15" Background="White" VerticalAlignment="Center" CornerRadius="10" Padding="30">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+
+            <StackPanel>
+                <StackPanel>
+                    <TextBlock Text="Hello Users" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
+                    <Grid>
+                        <Button Click="RegisEnterSwitcher" x:Name="Regis" HorizontalAlignment="Left" Content="Регистрация"></Button>
+                        <Button Click="RegisEnterSwitcher" x:Name="Enter" HorizontalAlignment="Right" Content="Войти" Style="{StaticResource MaterialDesignFlatButton}"/>
+                    </Grid>
+                    <StackPanel MinHeight="130">
+                        <TextBox GotFocus ="WhiteSwitch" x:Name="textLogin" materialDesign:HintAssist.Hint="Логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                        <PasswordBox GotFocus ="WhiteSwitch" x:Name="firstPassBox" materialDesign:HintAssist.Hint="Пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+                        <PasswordBox GotFocus ="WhiteSwitch" x:Name="SecondPassBox" materialDesign:HintAssist.Hint="Пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" />
+                        <TextBox GotFocus ="WhiteSwitch" x:Name="EmailBox" materialDesign:HintAssist.Hint="Email" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    </StackPanel>
+                   
+                    <Button x:Name="RegisEnterSwitcher_Button" Click="RegEnterBut" Content="Зарегистирироваться" Margin="0 20"></Button>
+                </StackPanel>
+            </StackPanel>
+            
+            
+            
+        </Border>
+        
+    </Grid>
+</Window>
+
